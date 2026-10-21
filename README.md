@@ -5,9 +5,9 @@ I am a PhD student in Electrical and Computer Engineering at the University of B
 ## Selected work
 - **[RRT](https://github.com/milad1378yz/rrt)** ([paper](https://arxiv.org/pdf/2609.35646)) using item response theory to reduce the judge cost during rubric based LLM training.
 - **[MOTFM](https://github.com/milad1378yz/MOTFM)** ([paper](https://arxiv.org/abs/2503.00266)) develops optimal transport flow matching for fast medical image synthesis in 2D and 3D.
-- **[SAGE](https://github.com/milad1378yz/sage)** ([TMLR, 2026](https://openreview.net/forum?id=rxJvINT074) · [arXiv:2508.11850](https://arxiv.org/abs/2508.11850)) combines language models with evolutionary search to discover reusable symbolic acceleration inequality families for mixed integer programs.
+- **[SAGE](https://github.com/milad1378yz/sage)** ([TMLR, 2026](https://openreview.net/forum?id=rxJvINT074)) combines language models with evolutionary search to discover reusable symbolic acceleration inequality families for mixed integer programs.
 - **[MASPRM](https://github.com/milad1378yz/MASPRM)** ([paper](https://arxiv.org/abs/2510.24803)) is a process reward model that guides search in multi agent systems.
-- **[RL-Kirigami](https://github.com/milad1378yz/RL-Kirigami)** ([journal](https://doi.org/10.1016/j.matdes.2026.116545) · [arXiv](https://arxiv.org/abs/2605.08098)) combines conditional flow matching and reinforcement learning for inverse kirigami design and rapid fabrication.
+- **[RL-Kirigami](https://github.com/milad1378yz/RL-Kirigami)** ([journal](https://doi.org/10.1016/j.matdes.2026.116545)) combines conditional flow matching and reinforcement learning for inverse kirigami design and rapid fabrication.
 - **[Incorporating vision-language synthetic data enhances performance on echocardiography downstream tasks](https://doi.org/10.1117/1.JMI.13.5.057002)** Journal of Medical Imaging (2026).
 
 [Google Scholar](https://scholar.google.com/citations?user=L6nBGM8AAAAJ) · [LinkedIn](https://www.linkedin.com/in/milad-yazdani-932775202/)
