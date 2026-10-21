@@ -1,13 +1,15 @@
 # Milad Yazdani
 
-I am a PhD student in Electrical and Computer Engineering at the University of British Columbia. My research combines generative modeling and reinforcement learning with medical imaging, mathematical optimization, multi agent systems, and computational design.
+I am a PhD student in Electrical and Computer Engineering at the University of British Columbia (UBC). My research develops generative modeling and reinforcement learning methods for medical imaging, multi-agent reasoning, mathematical optimization, and computational design.
 
-## Selected work
-- **[RRT](https://github.com/milad1378yz/rrt)** ([paper](https://arxiv.org/pdf/2609.35646)) using item response theory to reduce the judge cost during rubric based LLM training.
-- **[MOTFM](https://github.com/milad1378yz/MOTFM)** ([paper](https://arxiv.org/abs/2503.00266)) develops optimal transport flow matching for fast medical image synthesis in 2D and 3D.
-- **[SAGE](https://github.com/milad1378yz/sage)** ([TMLR, 2026](https://openreview.net/forum?id=rxJvINT074)) combines language models with evolutionary search to discover reusable symbolic acceleration inequality families for mixed integer programs.
-- **[MASPRM](https://github.com/milad1378yz/MASPRM)** ([paper](https://arxiv.org/abs/2510.24803)) is a process reward model that guides search in multi agent systems.
-- **[RL-Kirigami](https://github.com/milad1378yz/RL-Kirigami)** ([journal](https://doi.org/10.1016/j.matdes.2026.116545)) combines conditional flow matching and reinforcement learning for inverse kirigami design and rapid fabrication.
-- **[Incorporating vision-language synthetic data enhances performance on echocardiography downstream tasks](https://doi.org/10.1117/1.JMI.13.5.057002)** Journal of Medical Imaging (2026).
+## Selected Research
 
-[Google Scholar](https://scholar.google.com/citations?user=L6nBGM8AAAAJ) · [LinkedIn](https://www.linkedin.com/in/milad-yazdani-932775202/)
+- **[RRT](https://github.com/milad1378yz/rrt)** · [arXiv paper](https://arxiv.org/abs/2609.35646) — Introduces an item-response-theory-based framework for estimating response quality from rubric judgments and adaptively selecting evaluation criteria, reducing judging costs during reinforcement learning of large language models.
+
+- **[MOTFM](https://github.com/milad1378yz/MOTFM)** · [arXiv paper](https://arxiv.org/abs/2503.00266) — Uses optimal-transport flow matching to accelerate medical image synthesis across 2D and 3D settings while preserving image quality.
+
+- **[SAGE](https://github.com/milad1378yz/sage)** · [TMLR paper (2026)](https://openreview.net/forum?id=rxJvINT074) — Combines large language models with evolutionary search to discover reusable families of symbolic acceleration inequalities for mixed-integer linear programming.
+
+- **[MASPRM](https://github.com/milad1378yz/MASPRM)** · [arXiv paper](https://arxiv.org/abs/2510.24803) — Develops a process reward model that evaluates intermediate messages in multi-agent systems and guides inference-time search to improve reasoning performance.
+
+- **[RL-Kirigami](https://github.com/milad1378yz/RL-Kirigami)** · [Materials & Design (2026)](https://doi.org/10.1016/j.matdes.2026.116545) — Combines optimal-transport conditional flow
