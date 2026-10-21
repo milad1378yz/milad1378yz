@@ -1,15 +1,19 @@
 # Milad Yazdani
 
-I am a PhD student in Electrical and Computer Engineering at the University of British Columbia (UBC). My research develops generative modeling and reinforcement learning methods for medical imaging, multi-agent reasoning, mathematical optimization, and computational design.
+I am a PhD student in Electrical and Computer Engineering at the University of British Columbia (UBC). My research focuses on generative modeling, reinforcement learning, and AI-driven search and optimization, with applications in medical imaging, multi-agent systems, mathematical optimization, and computational design.
 
 ## Selected Research
 
-- **[RRT](https://github.com/milad1378yz/rrt)** · [arXiv paper](https://arxiv.org/abs/2609.35646) — Introduces an item-response-theory-based framework for estimating response quality from rubric judgments and adaptively selecting evaluation criteria, reducing judging costs during reinforcement learning of large language models.
+- **[RRT](https://github.com/milad1378yz/rrt)** ([Paper](https://arxiv.org/pdf/2609.35646)) — Applies item response theory to reduce evaluator costs in rubric-based large language model training.
 
-- **[MOTFM](https://github.com/milad1378yz/MOTFM)** · [arXiv paper](https://arxiv.org/abs/2503.00266) — Uses optimal-transport flow matching to accelerate medical image synthesis across 2D and 3D settings while preserving image quality.
+- **[MOTFM](https://github.com/milad1378yz/MOTFM)** ([Paper](https://arxiv.org/abs/2503.00266)) — Develops an optimal transport flow matching framework for efficient 2D and 3D medical image synthesis.
 
-- **[SAGE](https://github.com/milad1378yz/sage)** · [TMLR paper (2026)](https://openreview.net/forum?id=rxJvINT074) — Combines large language models with evolutionary search to discover reusable families of symbolic acceleration inequalities for mixed-integer linear programming.
+- **[SAGE](https://github.com/milad1378yz/sage)** ([TMLR, 2026](https://openreview.net/forum?id=rxJvINT074)) — Combines large language models with evolutionary search to discover reusable symbolic acceleration inequality families for mixed-integer linear programming (MILP).
 
-- **[MASPRM](https://github.com/milad1378yz/MASPRM)** · [arXiv paper](https://arxiv.org/abs/2510.24803) — Develops a process reward model that evaluates intermediate messages in multi-agent systems and guides inference-time search to improve reasoning performance.
+- **[MASPRM](https://github.com/milad1378yz/MASPRM)** ([Paper](https://arxiv.org/abs/2510.24803)) — Introduces a process reward model to guide search and improve decision-making in multi-agent systems.
 
-- **[RL-Kirigami](https://github.com/milad1378yz/RL-Kirigami)** · [Materials & Design (2026)](https://doi.org/10.1016/j.matdes.2026.116545) — Combines optimal-transport conditional flow
+- **[RL-Kirigami](https://github.com/milad1378yz/RL-Kirigami)** ([Journal of Materials & Design, 2026](https://doi.org/10.1016/j.matdes.2026.116545)) — Combines conditional flow matching and reinforcement learning for inverse kirigami design and rapid fabrication.
+
+- **[Incorporating Vision-Language Synthetic Data Enhances Performance on Echocardiography Downstream Tasks](https://doi.org/10.1117/1.JMI.13.5.057002)** ([Journal of Medical Imaging, 2026](https://doi.org/10.1117/1.JMI.13.5.057002)) — Investigates the use of vision-language-generated synthetic data to improve performance on downstream echocardiography tasks.
+
+[Google Scholar](https://scholar.google.com/citations?user=L6nBGM8AAAAJ) · [LinkedIn](https://www.linkedin.com/in/milad-yazdani-932775202/)
