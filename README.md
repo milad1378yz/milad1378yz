@@ -1,7 +1,7 @@
 # Milad Yazdani
 
 I am a PhD student in Electrical and Computer Engineering at the University of British Columbia (UBC). My research focuses on generative modeling, reinforcement learning, and AI-driven search and optimization, with applications in medical imaging, multi-agent systems, mathematical optimization, and computational design.
-
+<!--
 ## Selected Research
 
 - **[RRT](https://github.com/milad1378yz/rrt)** ([paper](https://arxiv.org/pdf/2609.35646)): Applies item response theory to reduce evaluation costs in rubric-based LLM training.
@@ -15,3 +15,4 @@ I am a PhD student in Electrical and Computer Engineering at the University of B
 - **[RL-Kirigami](https://github.com/milad1378yz/RL-Kirigami)** ([Materials & Design, 2026](https://doi.org/10.1016/j.matdes.2026.116545)): Combines conditional flow matching and reinforcement learning for inverse kirigami design and rapid fabrication.
 
 - **Incorporating Vision-Language Synthetic Data Enhances Performance on Echocardiography Downstream Tasks** ([Journal of Medical Imaging, 2026](https://doi.org/10.1117/1.JMI.13.5.057002)): Investigates vision-language-generated synthetic data to improve downstream echocardiography performance.
+-->
